@@ -38,7 +38,7 @@ type License = {
 };
 ```
 
-In `dictionary.json`, there is an array of `WordData` objects sorted alphabetically by the `word` field. In `dictionary_multimap.json`,
+In `dictionary.json`, there is an array of `WordData` objects sorted alphabetically by the `word` field. In `dictionary_mapped.json`,
 the data is mapped in a way so that keys are words and values are `WordData` objects.
 
 ### License
