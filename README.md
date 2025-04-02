@@ -18,7 +18,7 @@ type WordData = {
 type Phonetic = {
     text: string,
     audio: string | null
-}
+};
 
 type Meaning = {
     part_of_speech: string,
